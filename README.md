@@ -7,7 +7,7 @@ Project Title
 Explore US Bikeshare Data
 
 Description
-In this project, we used data provided by a bike share system provider for many cities in the USA, to uncover bike share usage patterns and some descriptive meaningful statistics.
+In this project, we used data provided by a bike share system provider for many cities in the US, to uncover bike share usage patterns and some descriptive meaningful statistics.
 
 Comparing the system usage between three large cities: Chicago, New York City, and Washington, DC.s
 
@@ -17,7 +17,7 @@ new_york_city.csv, Randomly selected data for the first six months of 2017 in Ne
 
 chicago.csv, Randomly selected data for the first six months of 2017 in Chicago.
 
-Washington.csv, Randomly selected data for the first six months of 2017 in Washington, DC.
+Washington.csv, Randomly selected data for the first six months of 2017 in DC ,Washington.
 
 Credits
 
