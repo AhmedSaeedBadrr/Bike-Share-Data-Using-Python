@@ -75,6 +75,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
+    #git change
     df = pd.read_csv(CITY_DATA[city])
     if (city == 'washington'):
         listOfGlobals = globals()
