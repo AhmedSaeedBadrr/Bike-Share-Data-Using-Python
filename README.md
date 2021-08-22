@@ -22,7 +22,10 @@ Washington.csv, Randomly selected data for the first six months of 2017 in DC ,W
 Credits
 
 https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
+
 https://www.w3resource.com/python-exercises/pandas/datetime/pandas-datetime-exercise-8.php
+
 https://stackoverflow.com/questions/32459325/python-pandas-dataframe-select-row-by-max-value-in-group
+
 https://www.kite.com/python/answers/how-to-find-the-mean-of-a-pandas-dataframe-column-in-python
 
