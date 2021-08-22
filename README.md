@@ -1,17 +1,28 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+This project was created on the 14th of July, 2021
 
-### Description
-Describe what your project is about and what it does
+Project Title
 
-### Files used
-Include the files used
+Explore US Bikeshare Data
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Description
+In this project, we used data provided by a bike share system provider for many cities in the USA, to uncover bike share usage patterns and some descriptive meaningful statistics.
+
+Comparing the system usage between three large cities: Chicago, New York City, and Washington, DC.s
+
+Files used
+
+new_york_city.csv, Randomly selected data for the first six months of 2017 in New York City.
+
+chicago.csv, Randomly selected data for the first six months of 2017 in Chicago.
+
+Washington.csv, Randomly selected data for the first six months of 2017 in Washington, DC.
+
+Credits
+
+https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
+https://www.w3resource.com/python-exercises/pandas/datetime/pandas-datetime-exercise-8.php
+https://stackoverflow.com/questions/32459325/python-pandas-dataframe-select-row-by-max-value-in-group
+https://www.kite.com/python/answers/how-to-find-the-mean-of-a-pandas-dataframe-column-in-python
 
