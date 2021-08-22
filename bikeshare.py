@@ -75,6 +75,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
+    #git change
     df = pd.read_csv(CITY_DATA[city])
     if (city == 'washington'):
         listOfGlobals = globals()
@@ -125,7 +126,7 @@ def station_stats(df):
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
     print('\nCalculating Trip Duration...\n')
-
+    #git change
     start_time = time.time()
     total_travel_time = df['Trip Duration'].sum()
     total_travel_formatted = str(datetime.timedelta(seconds=int(total_travel_time)))
