@@ -1,4 +1,4 @@
-### Date created
+Date created
 
 This project was created on the 14th of July, 2021
 
